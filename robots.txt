@@ -6,3 +6,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://williamleewilliam1-star.github.io/desktoppreset-ads-landing/sitemap.xml
